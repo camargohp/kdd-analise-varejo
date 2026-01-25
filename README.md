@@ -1,4 +1,3 @@
-# kdd-analise-varejo
 # Análise de Dados de Varejo com KDD
 
 ## 📌 Descrição
